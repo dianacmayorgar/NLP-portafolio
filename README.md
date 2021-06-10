@@ -1,4 +1,6 @@
 # NLP-portafolio
+Mi nombre es Diana Mayorga, soy psicóloga graduada de la Universidad Nacional, tengo una MBA en Dirección y Gestión de recursos Humanos y una especialización en Analítica Estratégica de Datos.
+
 
 # [Taller 1](https://github.com/dianacmayorgar/NLP-portafolio/blob/main/Taller%201.pdf):
 Creación de cuenta y portafolio en GitHub, Solicitud de cuenta de desarrollador en e Tweeter
