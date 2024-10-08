@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 
 # Download stopwords if not already available
-import nltk
+import nltk # type: ignore
 nltk.download('stopwords')
 
 stopwords_en = set(stopwords.words('english'))
