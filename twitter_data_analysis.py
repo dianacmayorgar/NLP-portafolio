@@ -2,7 +2,7 @@ import pandas as pd
 import tweepy
 
 # Leer las llaves
-keys = pd.read_csv("G:/Mi unidad/NANI/_ESTUDIOS/_Especialización/Semestre 2/NLP/Taller 11/Mis_claves.csv", header=None)
+keys = pd.read_csv("/Mis_claves.csv", header=None)
 keys = dict(zip(keys[0],keys[1]))
 keys.keys()
 
